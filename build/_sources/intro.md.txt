@@ -1,0 +1,8 @@
+# Intro #
+
+## TODO ##
+
++ [Préampli Neve](https://www.ams-neve.com/consoles/history-of-1073/)
++ Boite à rythmes:
+  + [MPC5000](https://www.akaipro.com/mpc5000)
+  + [Native Instrument maschine](https://www.native-instruments.com/fr/products/maschine/production-systems/maschine/) (On peut acheter des bundles supplémentaires)
