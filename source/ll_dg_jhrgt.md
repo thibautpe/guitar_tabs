@@ -8,9 +8,9 @@
 
 ## Description ##
 
-- *Editor* Licklibrary - Online Guitar Lessons
-- *Video* Danny Gill - Jimi Hendrix Rhythm Guitar Tricks
-- [Link to video] (https://www.youtube.com/watch?v=dRWH1G3VIDc)
+- **Editor :** Licklibrary - Online Guitar Lessons
+- **Video :** Danny Gill - Jimi Hendrix Rhythm Guitar Tricks
+- [Link to video](https://www.youtube.com/watch?v=dRWH1G3VIDc)
 
 
 
@@ -23,8 +23,10 @@ Jimi Hendrix Rhythm Guitar Tricks = chords spiced with
 
 
 ## Chord inversions (xx:xx) ##
+A faire !
 
-Exemple de tab:
+
+## Exemple de tab (utilisation de vextab)
 
 <div class="vex-tabdiv" width="680" scale="1.0" editor="false" style="background-color: white;">
   options space=20
@@ -39,5 +41,5 @@ Exemple de tab:
   options space=20
 </div>
 
-Exemple d'accords
+## Exemple d'accords (utilisation de vextab)
 <div class="jtab"> E / / / | Am / B / || </div>
