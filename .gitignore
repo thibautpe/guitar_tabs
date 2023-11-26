@@ -1,2 +1,5 @@
 # Exclude build directory
-build/
+build/*
+build/searchindex.js
+build/searchindex.js
+build/.doctrees/environment.pickle
